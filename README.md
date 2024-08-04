@@ -52,7 +52,7 @@ Contributions to improve the Online Examination Management System are welcome. P
 
 ## License
 
-[Specify the license under which this project is released]
+[  Apache-2.0 License]
 
 ## Contact
 

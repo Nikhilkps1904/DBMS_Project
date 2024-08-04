@@ -16,7 +16,7 @@ This project is an Online Examination Management System designed to streamline t
 ## Technologies Used
 
 - Database Management System (DBMS)
-- [List any specific technologies, frameworks, or languages used]
+- PHP,HTML,CSS
 
 ## Installation
 
@@ -24,7 +24,6 @@ This project is an Online Examination Management System designed to streamline t
    ```
    git clone https://github.com/Nikhilkps1904/DBMS_Project.git
    ```
-2. [Add any additional installation steps]
 
 ## Usage
 
